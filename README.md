@@ -5,6 +5,13 @@ The On-Chain House Buying System is a blockchain-based solution designed to revo
 
 ---
 
+## Deployment 
+The smart contract for the On-Chain House Buying System is deployed on the NEOX Blockchain and can be explored at the following link:  
+[View Contract on NEOX](https://xt4scan.ngd.network/address/0x1d51572fB69AfD0758d4df10DB808B0E380DCEc5?tab=contract)  
+https://xt4scan.ngd.network/address/0x1d51572fB69AfD0758d4df10DB808B0E380DCEc5?tab=contract
+
+---
+
 ## Why NEOX Blockchain?  
 The **NEOX Blockchain** offers the perfect foundation for tokenized real estate due to its:  
 - **Interoperability:** Seamless integration with other blockchains.  
@@ -53,11 +60,8 @@ The **NEOX Blockchain** offers the perfect foundation for tokenized real estate 
   - Releases funds to the seller.  
 - The process is recorded immutably on the blockchain.  
 
----
+ 
 
-## Deployment  
-The smart contract for the On-Chain House Buying System is deployed on the NEOX Blockchain and can be explored at the following link:  
-[View Contract on NEOX](https://xt4scan.ngd.network/address/0x1d51572fB69AfD0758d4df10DB808B0E380DCEc5?tab=contract)  
 
 ---
 
